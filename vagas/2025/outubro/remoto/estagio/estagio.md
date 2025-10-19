@@ -1,0 +1,3 @@
+# Estágio em tecnologia
+
+- [Estágio Serasa Experian](https://www.serasaexperian.com.br/carreiras/estagio-serasa-experian/?utm_channel=c07&utm_bu=people&utm_source=google&utm_medium=pmax&utm_campaign=people_estag_estagio-fy26h2_conv_pmax&utm_term=estagio-fy26h2_click-inscr_interes_nac_estu-e-univer&utm_content=eb000179_estagio-fy26h2_click-inscr_interes_na_27-09-2025&gad_source=1&gad_campaignid=23064868984&gclid=CjwKCAjwmNLHBhA4EiwA3ts3mRgZ2w2bTJF5iiVJYo3OQnUJs-iMEN3CvLzC0n-P_lJhrja6yWigZBoCVYsQAvD_BwE) (Dica da [Mariana](https://github.com/eumarianamota))
