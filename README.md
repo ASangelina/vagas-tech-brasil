@@ -61,6 +61,18 @@ vagas/
 6. Aguarde a revisão e sua fotinha aparecerá no mural! 
 
 ### 💜 Mural de Contribuidores 💜
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/ASangelina" width="100px;" alt="Foto de Angelina Siqueira"/><br>
+        <sub>
+          <b>Angelina Siqueira</b>
+        </sub>
+      </a>
+    </td>
+</tr>
+</table>
 
 Quer ver sua carinha aqui? Contribua com uma vaga e seu PR for aceito! ✨
 
