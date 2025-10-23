@@ -71,6 +71,14 @@ vagas/
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/eumarianamota" width="100px;" alt="Foto de Mariana Mota"/><br>
+        <sub>
+          <b>Mariana Mota</b>
+        </sub>
+      </a>
+    </td>
 </tr>
 </table>
 
