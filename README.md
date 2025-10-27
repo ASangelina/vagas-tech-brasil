@@ -79,6 +79,14 @@ vagas/
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/madalena-rocha" width="100px;" alt="Foto de Madalena Rocha"/><br>
+        <sub>
+          <b>Madalena Rocha</b>
+        </sub>
+      </a>
+    </td>
 </tr>
 </table>
 
