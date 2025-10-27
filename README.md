@@ -75,7 +75,7 @@ vagas/
       <a href="#">
         <img src="https://avatars.githubusercontent.com/eumarianamota" width="100px;" alt="Foto de Mariana Mota"/><br>
         <sub>
-          <b>Mariana Mota</b>
+          <b>Mariana  Mota</b>
         </sub>
       </a>
     </td>
